@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Bibek Poudel
-🚀 I'm a robotics enthusiast passionate about making technology accessible and impactful.  
-🌍 I love building projects in medical robotics, smart navigation, and assistive tech.  
-🎓 Currently pursuing Computer Engineering with a minor in Robotics at NYU Abu Dhabi.
+####🚀 I'm a robotics enthusiast passionate about making technology accessible and impactful.  
+####🌍 I love building projects in medical robotics, smart navigation, and assistive tech.  
+####🎓 Currently pursuing Computer Engineering with a minor in Robotics at NYU Abu Dhabi.**
 ---
 ## 🔧 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
