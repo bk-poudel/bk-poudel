@@ -1,33 +1,61 @@
-### 👋 Hi, I'm Bibek Poudel
-🚀 I'm a robotics enthusiast passionate about making technology accessible and impactful.  
-🌍 I love building projects in medical robotics, smart navigation, and assistive tech.  
-🎓 Currently pursuing Computer Engineering with a minor in Robotics at NYU Abu Dhabi.**
+# 👋 Hi, I'm Bibek Poudel
+
+🚀 A robotics enthusiast striving to make technology more **accessible**, **intelligent**, and **impactful**.  
+🌍 I build projects in medical robotics, autonomous navigation, and assistive tech.  
+🎓 Pursuing **Computer Engineering** with a **Robotics minor** at **NYU Abu Dhabi**.
+
 ---
-## 🔧 Tech Stack & Tools
+
+## 🛠️ Tech Stack & Tools
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![Jetson Nano](https://img.shields.io/badge/-JetsonNano-333?style=flat&logo=nvidia)
+![ROS](https://img.shields.io/badge/-ROS-333?style=flat&logo=ros)
+![MuJoCo](https://img.shields.io/badge/-MuJoCo-333?style=flat&logo=robotframework)
+![NVIDIA Jetson](https://img.shields.io/badge/-JetsonNano-333?style=flat&logo=nvidia)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333?style=flat&logo=raspberrypi)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
+
 ---
-## 💡 Projects & Initiatives
-- 🤖 **Smart Goggles for the Visually Impaired** – Real-time object detection and guidance.
-- 🧠 **Pose Estimation with Hailo-8** – Multi-model inference on edge devices.
-- 🧪 **Handheld Bioprinter** – A prototype for tissue engineering and cell delivery.
-- 🥚 **Automated Egg Incubator** – Arduino-based system with full control loop.
- - 🤖 **Unitree Z1 Locomanipulation** – Locomanipulation and locomotion experiments with the Unitree Z1 platform (simulation + hardware).
-📌 See more at: [My Projects]([https://github.com/bibekpoudel?tab=repositories](https://bk-poudel.github.io/#projects))
+
+## 🚀 Featured Projects
+
+- 🕶️ **Smart Goggles for the Visually Impaired**  
+  Real-time object detection and spatial audio feedback for assisted navigation.
+
+- 🧠 **Pose Estimation on Hailo-8 Edge AI**  
+  Multi-model inference setup with object and human pose detection on embedded hardware.
+
+- 🖨️ **Handheld Bioprinter Prototype**  
+  A low-cost tissue engineering device focused on accessibility in cell delivery.
+
+- 🥚 **Automated Egg Incubator**  
+  Arduino-based smart incubator with full PID-based control loop and sensors.
+
+- 🦾 **Unitree Z1 Locomanipulation**  
+  Simulation + real hardware tests for arm manipulation and locomotion on the Unitree Z1 robot.
+
+📌 Explore more of my work here: [My Projects](https://bk-poudel.github.io/#projects)
+
 ---
-## 🌱 What I'm Learning
-- Reinforcement Learning for Robotic Control
-- Vision-Language Models for Embodied AI
-- MuJoCo + Franka Emika Panda simulation with ROS2
- - Locomanipulation and gait/control for the Unitree Z1 arm
- - NVIDIA Isaac Sim & Isaac Lab for photorealistic simulation and robot workflows
- - Imitation learning workflows with AgileX Aloha (robot learning and dataset collection)
+
+## 📚 What I'm Learning
+
+- 🧠 Reinforcement Learning for Robotic Control  
+- 🖼️ Vision-Language Models (VLMs) for Embodied AI  
+- 🛠️ ROS 2 + MuJoCo + Franka Emika for high-fidelity simulation  
+- 🦿 Locomanipulation and control for the Unitree Z1  
+- 🎮 NVIDIA Isaac Sim & Isaac Lab for photorealistic simulation  
+- 🤖 Imitation learning pipelines with AgileX Aloha robot datasets  
+
 ---
-## 📫 How to Reach Me
+
+## 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/bibek-poudel-731920200/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bp2376@nyu.edu)
+
 ---
+
 _“Innovation doesn’t have to be grand to be life-changing.”_
